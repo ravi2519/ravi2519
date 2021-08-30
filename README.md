@@ -36,4 +36,15 @@
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2519&layout=compact&theme=radical)](https://github.com/ravi2519/github-readme-stats)
+[![Ravi Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=ravi2519&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2519&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi2519" alt="ravi2519" /> </p>
+<!--
+- 🔭 I’m currently working on: 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
