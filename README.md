@@ -17,11 +17,13 @@
   </a>
 </p>
 
-- 👯 I am looking to collaborate on **microservices, event-driven, cloud-native, kubernetes, docker, java, spring-boot, angular** projects
+- 🔭 I’m currently working on: Azure Cloud, AKS/GKE, Microservices
 
-- 📫 How to reach me **ravi2519@gmail.com**
+- 👯 I am looking to collaborate on: **microservices, event-driven, cloud-native, kubernetes, docker, java, spring-boot, angular** projects
 
-- 📄 Know about my experiences [https://ravi2519.github.io/](https://ravi2519.github.io/)
+- 📫 Reach me on: **ravi2519@gmail.com**
+
+- 📄 Know about my experiences: [https://ravi2519.github.io/](https://ravi2519.github.io/)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -35,10 +37,6 @@
   <img align="left" alt="Ravi Ranjan | StackOverflow" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />
 </a>
 </p>
-
-[![Ravi Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=ravi2519&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2519&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi2519" alt="ravi2519" /> </p>
 <!--
