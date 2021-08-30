@@ -35,3 +35,5 @@
   <img align="left" alt="Ravi Ranjan | StackOverflow" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />
 </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2519&layout=compact&theme=radical)](https://github.com/ravi2519/github-readme-stats)
