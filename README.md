@@ -37,7 +37,7 @@
   <img align="left" alt="Ravi Ranjan | StackOverflow" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />
 </a>
 </p>
-
+<br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi2519" alt="ravi2519" /> </p>
 <!--
 - 🔭 I’m currently working on: 
