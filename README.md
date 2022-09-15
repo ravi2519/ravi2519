@@ -28,13 +28,13 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/ravi2519">
-  <img align="left" alt="Ravi Ranjan | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img align="left" alt="Ravi Ranjan | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
 </a>
 <a href="https://www.linkedin.com/in/ravi-ranjan-5073b910/">
-  <img align="left" alt="Ravi Ranjan | LinkdeIn" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="Ravi Ranjan | LinkdeIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" />
 </a>
 <a href="https://stackoverflow.com/users/414744/ravi-ranjan">
-  <img align="left" alt="Ravi Ranjan | StackOverflow" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />
+  <img align="left" alt="Ravi Ranjan | StackOverflow" width="30px" src="https://img.icons8.com/color/48/000000/stackexchange.png" />
 </a>
 </p>
 <br/><br/>
