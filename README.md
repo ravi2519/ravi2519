@@ -23,7 +23,7 @@
 
 - 📫 Reach me on: **ravir2519@gmail.com**
 
-- 📄 Know about my experiences: [https://ravi2519.github.io/](https://ravi2519.github.io/)
+- 📄 Know about my experiences: [https://www.ravir.in/](https://www.ravir.in/)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
